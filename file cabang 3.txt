@@ -1,0 +1,4 @@
+file in digunakan untuk merge
+ketika perintah merge di;okal urutannya adalah
+git merge nama_branch
+git push
