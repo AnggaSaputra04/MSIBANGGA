@@ -1,0 +1,4 @@
+Ini adini adalah file cabang (branch)
+perintperintah membuat branch ketika di lokal git branch nama_branch
+setiapfile di branch tidak terlihat di master
+kecualiperintahnya sudah dilakukan merge atau penggabungan perintahnya adalah git merge
